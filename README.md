@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-Purpose:
+## Purpose:
 
 The goal of this project is to use machine learning in roder to assess the credit card risk and resolve the inherent unbalanced classification problem as good loans outnumber risk loans.
 Therefore, it's important to train and evaluate different models with unbalanced classes and choose best performing ones.
@@ -30,7 +30,7 @@ Jill's goal is to analyze different machine learning algorithms and models in or
 |Easy Ensemble Classifier          |0.9316600714093861 |0.99       |0.94                |0.91        |Easy Ensemble Classifier performs better than the rest.|
 
 
-## Code Snippets 
+## Code Snippets: 
 
 ![Feature and Target Creation](/Resources/credit_risk_feature_target_creation.png)<br>
 
