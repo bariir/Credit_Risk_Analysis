@@ -28,3 +28,24 @@ Jill's goal is to analyze different machine learning algorithms and models in or
 |Ensemble:                         |                   |           |                    |            |                                                       |
 |Balanced Random Forest Classifier |0.7885466545953005 |0.99       |0.87                |0.93        |                                                       |
 |Easy Ensemble Classifier          |0.9316600714093861 |0.99       |0.94                |0.91        |Easy Ensemble Classifier performs better than the rest.|
+
+
+## Code Snippets 
+
+![Feature and Target Creation](/Resources/credit_risk_feature_target_creation.png)<br>
+
+![Training and Test Split Dataset](/Resources/credit_risk_split_train_test_sets.png)<br>
+
+![Naive Oversampling](/Resources/credit_risk_random_oversampling_logisticRegression.png)<br>
+
+![SMOTE Oversampling](/Resources/credit_risk_smote_oversampling.png)<br>
+
+![Imbalance Classification Report](/Resources/credit_risk_imbalance_classification_report.png)<br>
+
+![Balanced Random forest Classifier](/Resources/credit_risk_ensemble_random_forest_classifier.png)<br>
+
+![Confusion Matrix and Accuracy Score](/Resources/credit_risk_ensemble_random_forest_classifier.png)<br>
+
+![Combination (Over and Under) Sampling](/Resources/credit_risk_combination_sampling.png)<br>
+
+![Easy Ensemble AdaBoost Classifier](/Resources/credit_risk_easy_ensemble_adaboost_classifier.png)<br>
