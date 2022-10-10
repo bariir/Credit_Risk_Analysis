@@ -68,4 +68,21 @@ Jill and her team deploy different modeling techniques including oversampling us
 
 ## Links to images
 
-Feature and Target Creation[credit_risk_feature_target_creation.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_combination_sampling.png?raw=true)<br>
+Feature and Target Creation [credit_risk_feature_target_creation.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_combination_sampling.png?raw=true)<br>
+
+Training and Test Split Dataset [credit_risk_split_train_test_sets.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_split_train_test_sets.png?raw=true)<br>
+
+Naive Oversampling[credit_risk_random_oversampling_logisticRegression.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_random_oversampling_logisticRegression.png?raw=true)<br>
+
+SMOTE Oversampling[credit_risk_smote_oversampling.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_smote_oversampling.png?raw=true)<br>
+
+Imbalance Classification Report[credit_risk_imbalance_classification_report.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_imbalance_classification_report.png?raw=true)<br>
+
+Balanced Random forest Classifier[credit_risk_ensemble_random_forest_classifier.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_ensemble_random_forest_classifier.png?raw=true)<br>
+
+Confusion Matrix and Accuracy Score[credit_risk_ensemble_random_forest_classifier.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_ensemble_random_forest_classifier.png?raw=true)<br>
+
+Combination (Over and Under) Sampling[credit_risk_combination_sampling.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_combination_sampling.png?raw=true)<br>
+
+Easy Ensemble AdaBoost Classifier[credit_risk_easy_ensemble_adaboost_classifier.png](https://github.com/bariir/Credit_Risk_Analysis/blob/main/Resources/credit_risk_easy_ensemble_adaboost_classifier.png?raw=true)<br>
+
