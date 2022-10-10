@@ -13,19 +13,18 @@ Therefore, it's important to train and evaluate different models with unbalanced
 Jill's goal is to analyze different machine learning algorithms and models in order to assess the credit risk unbalanced classification and therefore, best select the high performing model or combination of models.<br>
 - Here are an overall matrix that contains balanced accuracy scores, precision, recall scores, and F1 scores of all six machine learning models. <br>
 
-
-| Models                           | Accuracy Score    | Precision |Recall(Sensitivity) | F1 Score | Best Performance                                      |
-|:---------------------------------|:------------------|:----------|:-------------------|:---------|:------------------------------------------------------|
-|Oversampling:                     |                   |           |                    |          |                                                       | 
-|Naïve random oversampling         |0.6573009382322703 |0.99       |0.60                |0.75      |                                                       |
-|SMOTE                             |0.6622479600626106 |0.99       |0.69                |0.81      |SMOTE performs better.                                 |
-|                                  |                   |           |                    |          |                                                       |
-|Undersampling:                    |                   |           |                    |          |                                                       |
-|Cluster Centroids                 |0.5447339051023905 |0.99       |0.40                |0.56      |                                                       |
-|                                  |                   |           |                    |          |                                                       |
-|Combined:                         |                   |           |                    |          |                                                       |
-|SMOTEENN                          |0.639224858524206  |0.99       |0.58                |0.73      |                                                       |             
-|                                  |                   |           |                    |          |                                                       |
-|Ensemble:                         |                   |           |                    |          |                                                       |
-|Balanced Random Forest Classifier |0.7885466545953005 |0.99       |0.87                |0.93      |                                                       |
-|Easy Ensemble Classifier          |0.9316600714093861 |0.99       |0.94                |0.91      |Easy Ensemble Classifier performs better than the rest.|
+| Models                           | Accuracy Score    | Precision |Recall(Sensitivity) | F1 Score   | Best Performance                                      |
+|:---------------------------------|:------------------|:----------|:-------------------|:-----------|:------------------------------------------------------|
+|Oversampling:                     |                   |           |                    |            |                                                       | 
+|Naïve random oversampling         |0.6573009382322703 |0.99       |0.60                |0.75        |                                                       |
+|SMOTE                             |0.6622479600626106 |0.99       |0.69                |0.81        |SMOTE performs better.                                 |
+|                                  |                   |           |                    |            |                                                       |
+|Undersampling:                    |                   |           |                    |            |                                                       |
+|Cluster Centroids                 |0.5447339051023905 |0.99       |0.40                |0.56        |                                                       |
+|                                  |                   |           |                    |            |                                                       |
+|Combined:                         |                   |           |                    |            |                                                       |
+|SMOTEENN                          |0.639224858524206  |0.99       |0.58                |0.73        |                                                       |    
+|                                  |                   |           |                    |            |                                                       |
+|Ensemble:                         |                   |           |                    |            |                                                       |
+|Balanced Random Forest Classifier |0.7885466545953005 |0.99       |0.87                |0.93        |                                                       |
+|Easy Ensemble Classifier          |0.9316600714093861 |0.99       |0.94                |0.91        |Easy Ensemble Classifier performs better than the rest.|
