@@ -59,3 +59,8 @@ Jill's goal is to analyze different machine learning algorithms and models in or
 - Easy Ensemble AdaBoost Classifier<br>
 ![Easy Ensemble AdaBoost Classifier](/Resources/credit_risk_easy_ensemble_adaboost_classifier.png)<br>
 
+
+# Summary
+The analysis done by Jill and her colleague for LendingClub find that there is unbalanced classification between the good loans and risky loads. 
+While the good loans easily outnumber the risky loans you will need to train and evaluate different models to solve this kind of unbalanced classes.
+Jill and her team deploy different modeling techniques including oversampling using RandomOverSample and SMOTE algorithms, undersampling using the ClusterCentroids algorithm as well as combined method of (over and under) sampling using teh SMOTEENN algorithm. Then two machine learning models BalancedRandomForestClassifier and EasyEnsembleClassifier are compared in order to reduce bias and predict credit risk. Finally, different models are evaluated and the best performing model is selected.
