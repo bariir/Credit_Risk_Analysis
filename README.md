@@ -14,7 +14,7 @@ Jill's goal is to analyze different machine learning algorithms and models in or
 - Here are an overall matrix that contains balanced accuracy scores, precision, recall scores, and F1 scores of all six machine learning models. <br>
 
 
-| Models                           | Accuracy Score    | Precision |Recall(Sensitivity) | F1 score | Best Performance                                      |
+| Models                           | Accuracy Score    | Precision |Recall(Sensitivity) | F1 Score | Best Performance                                      |
 |:---------------------------------|:------------------|:----------|:-------------------|:---------|:------------------------------------------------------|
 |Oversampling:                     |                   |           |                    |          |                                                       | 
 |Naïve random oversampling         |0.6573009382322703 |0.99       |0.60                |0.75      |                                                       |
